@@ -1,5 +1,2 @@
-# kemsu-pmim198-timetable
+# UT3 Server Monitoring 
 
-Неофициальное расписание онлайн-занятий группы ПМИм-198 в КемГУ, доступно [здесь](https://dealenx.github.io/kemsu-pmim-198-timetable/)
-
-Сделано из-за сложившейся карантийной ситуацией в стране. 
